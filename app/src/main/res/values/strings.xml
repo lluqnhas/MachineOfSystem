@@ -4,4 +4,5 @@
     <string name="senha">senha</string>
     <string name="entrar">entrar</string>
     <string name="add_membro"><u>ainda não sou membro</u></string>
+    <string name="novo_membro">Novo Membro</string>
 </resources>

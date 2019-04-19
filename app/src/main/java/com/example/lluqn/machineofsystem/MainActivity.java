@@ -1,5 +1,6 @@
 package com.example.lluqn.machineofsystem;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -33,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         add_membro.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //evento do click
+                startActivity(new Intent(MainActivity.this, Main2Activity.class));
             }
         });
     }
