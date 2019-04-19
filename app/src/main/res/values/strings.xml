@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Machine Of System</string>
+    <string name="login">login</string>
+    <string name="senha">senha</string>
+    <string name="entrar">entrar</string>
+    <string name="add_menbro"><u>ainda não sou menbro</u></string>
 </resources>
